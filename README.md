@@ -1,5 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Typescript With React
+리엑트에 타입스크립트를 얹어!
 
+[create-react-app.dev](https://create-react-app.dev/docs/adding-typescript/) 기존 프로젝트에 타입스크립트 더하는 방법!
+
+
+프로젝트 생성부터 typescript 적용!
+```
+npx create-react-app ts-react-tutorial --typescript
+```
+
+
+
+아래는 기본 생성된 markdown
 ## Available Scripts
 
 In the project directory, you can run:
